@@ -1,0 +1,16 @@
+print("hello coding python")
+import keyword
+print(keyword.kwlist)
+print("deno1","demo2","demo3")
+print("#demodemo")
+print(10,20,30,40)
+print("안녕하세요")
+print(type("my is demo"))
+print(type(123))
+print("------------------------------------------------------")
+print("------------------------------------------------------")
+print("name|age|region")
+print("demo|21|korean")
+print("moon|25|china")
+print("like|52|taiwan")
+
